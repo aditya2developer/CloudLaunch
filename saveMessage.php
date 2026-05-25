@@ -2,7 +2,7 @@
 
 $server = "YOUR_SERVER.database.windows.net";
 $database = "messagedb";
-$username = "YOUR_USERNAME";
+$username = "CloudSA09e89a90";
 $password = "password";
 
 $conn = new PDO(
