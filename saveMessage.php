@@ -1,9 +1,9 @@
 <?php
 
 $server = "YOUR_SERVER.database.windows.net";
-$database = "messagesdb";
+$database = "messagedb";
 $username = "YOUR_USERNAME";
-$password = "YOUR_PASSWORD";
+$password = "password";
 
 $conn = new PDO(
     "sqlsrv:server=$server;Database=$database",
